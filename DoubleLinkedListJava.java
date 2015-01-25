@@ -1,7 +1,5 @@
 //This file has double linked list implementation with its functions
 
-package linkedlist;
-
 //Node for a double linked list
 class NodeDouble{
 	String name;
