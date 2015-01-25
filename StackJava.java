@@ -1,7 +1,5 @@
 //This file has implementation of stack and more functions.
 
-package stackAndQueues;
-
 import java.util.ArrayList;
 
 //Node of a stack
