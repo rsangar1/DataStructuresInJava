@@ -1,10 +1,5 @@
 //This file contains linked list implementation and some of the functions. Please check the comments to understand better.
 
-package cci.linkedlist;
-
-import cci.linkedlist.LinkedList;
-import cci.linkedlist.Node;
-
 //Node or element of linked list with two data variables, one string variable and one int variable
 class Node{
 	int number;
